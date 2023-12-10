@@ -6,7 +6,7 @@ This project is a part of the AAI-521 course in the Applied Artifical Intelligen
 
 ## Installation
 
-To use this project, go to https://huggingface.co/sglasher/van-gogh-stable-diffusion
+To use this project, go to https://huggingface.co/sglasher/van-gogh-stable-diffusion, or use the script "Text-to-ImageFinalProject_Final.ipynb". It is the main, which requires the other files already saved in this repository. 
 
 ## Project Intro/Objective
 
