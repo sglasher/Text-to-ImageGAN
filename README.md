@@ -6,11 +6,11 @@ This project is a part of the AAI-521 course in the Applied Artifical Intelligen
 
 ## Installation
 
-To use this project, go to https://huggingface.co/sglasher/van-gogh-stable-diffusion, or use the script "Text-to-ImageFinalProject_Final.ipynb". It is the main script, which requires the other files already saved in this repository. 
+To use this project, go to https://huggingface.co/sglasher/van-gogh-stable-diffusion, or use the script "Text-to-ImageFinalProject_Final.ipynb". It is the main script, which requires the other files already saved in this repository. In order to evaluate FID, we selected 15 Van Gogh images not included in the training set. Access to these latter images ("paintings_van_gogh" in the main script) can be required at the link https://drive.google.com/drive/folders/16h_FouubAYVilE9qe-jCG0KVXdQw5X04?usp=sharing. 
 
 ## Project Intro/Objective
 
-The main purpose of this project is to create AI generated artwork. The capability of text-to-image generation to emulate specific artistic styles, such as those of iconic figures like Vincent Van Gogh, provides a remarkable avenue for promoting and marketing the works of deceased artists.
+The main purpose of this project is to create AI generated artwork. The capability of text-to-image generation to emulate specific artistic styles, such as those of iconic figures like Vincent Van Gogh, provides a remarkable avenue for promoting and marketing the works of deceased artists. 
 
 ## Partners/Contributors
 
